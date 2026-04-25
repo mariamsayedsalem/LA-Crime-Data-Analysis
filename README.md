@@ -129,3 +129,29 @@ The dataset (`crimes.csv`) contains **185,000+ records** including:
 - [ ] Implement Machine Learning models to predict high-crime periods.
 
 - [ ] Perform sentiment analysis on crime descriptions.
+
+---
+
+## 📬 Contact
+
+If you would like to collaborate, discuss data projects, or professional opportunities, feel free to reach out.
+
+<p align="left">
+
+<a href="mailto:mariems00000@gmail.com">
+<img src="https://img.shields.io/badge/Email-mariems00000%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="tel:+201128533281">
+<img src="https://img.shields.io/badge/Phone-%2B20%20112%20853%203281-green?style=for-the-badge&logo=whatsapp">
+</a>
+
+<a href="https://github.com/mariamsayedsalem">
+<img src="https://img.shields.io/badge/GitHub-mariamsayedsalem-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/maryam-sayed-salem-6265702a7">
+<img src="https://img.shields.io/badge/LinkedIn-Maryam%20Salem-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
