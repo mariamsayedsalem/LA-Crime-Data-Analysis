@@ -103,19 +103,6 @@ The dataset (`crimes.csv`) contains **185,000+ records** including:
 
 ---
 
-## 📅 Project Timeline
-
-| Phase | Duration | Focus | Key Tasks |
-|-------|----------|-------|-----------|
-| **Problem Definition** | Week 1 | Understanding | • Define crime-related questions<br>• Inspect dataset structure |
-| **Data Understanding & EDA** | Weeks 2-3 | Quality Check | • Summary statistics<br>• Identify nulls & age outliers |
-| **Data Cleaning** | Weeks 4-5 | Engineering | • Impute missing weapons<br>• Standardize dates & extract hour |
-| **Deep Analysis & Insights** | Weeks 6-7 | Pattern Detection | • Build area & demographic distributions<br>• Find peak crime hour |
-| **Visualization & Reporting** | Weeks 8-9 | Storytelling | • Create Seaborn dashboards<br>• Summarize key insights |
-| **Final Delivery** | Week 10 | Documentation | • Finalize README in VS Code<br>• Deploy to GitHub |
-
----
-
 ## 💡 Project Insights
 
 - 🕒 The Midday Peak: Analysis confirms 12:00 PM as the peak hour for reporting, often linked to default logging for identity theft.
