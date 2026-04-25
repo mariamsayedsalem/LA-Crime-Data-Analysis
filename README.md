@@ -16,13 +16,10 @@
 - [Tools & Technologies](#tools--technologies)
 - [Dataset Description](#dataset-description)
 - [Project Workflow](#project-workflow)
-- [Project Timeline](#project-timeline)
 - [Project Insights](#project-insights)
 - [KPIs](#kpis)
 - [Instructor](#instructor)
 - [Future Improvements](#future-improvements)
-- [Installation](#installation)
-- [Project Files](#project-files)
 - [Contact](#contact)
 
 ---
