@@ -116,22 +116,6 @@ The dataset (`crimes.csv`) contains **185,000+ records** including:
 
 ---
 
-## 📊 Visual Project Timeline
-
-```mermaid
-gantt
-    title LAPD Crime Analysis Project Timeline
-    dateFormat  YYYY-MM-DD
-    section Phase 1
-    Problem Definition           :a1, 2026-04-01, 7d
-    section Phase 2
-    Data Understanding & EDA      :a2, after a1, 14d
-    section Phase 3
-    Data Cleaning                 :a3, after a2, 14d
-    section Phase 4
-    Deep Analysis & Insights      :a4, after a3, 14d
-    section Phase 5 ```
-
 ## 💡 Project Insights
 
 - 🕒 The Midday Peak: Analysis confirms 12:00 PM as the peak hour for reporting, often linked to default logging for identity theft.
